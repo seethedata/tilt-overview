@@ -1,6 +1,6 @@
 # Dashboard Manifest
 applications:
-- name: cmg-tilt-overview
+- name: tilt-overview
 memory: 512MB
 disk_quota: 80MB
 buildpack:  staticfile_buildpack
